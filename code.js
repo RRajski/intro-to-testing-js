@@ -2,7 +2,7 @@
 
 
 function sayHello(){
-    return "Hello, World!";
+    return "";
 }
 // const helloWorld = function() {
 //     return "Hello, World!";
